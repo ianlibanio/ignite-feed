@@ -16,7 +16,7 @@
     Project #1 of React trail of Ignite program by Rocketseat
     <br />
     <br />
-    <a href="https://ianlibanio.com/">View Demo</a>
+    <a href="https://ignite-feed.ianlibanio.com/">View Live</a>
     ·
     <a href="https://github.com/ianlibanio/ignite-feed/issues">Report Bug</a>
     ·
@@ -61,7 +61,7 @@
 
 ## Getting Started
 
-This project was done at Ignite following [this Figma design](https://www.figma.com/community/file/1113573231685349036), using CSS Modules inside React.
+This project was done at Ignite following [this Figma design](https://www.figma.com/community/file/1113573231685349036), using CSS Modules inside React. You can access the project live [here](https://ignite-feed.ianlibanio.com/).
 
 To run the project, you must follow these steps:
 
