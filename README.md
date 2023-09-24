@@ -16,7 +16,7 @@
     Project #1 of React trail of Ignite program by Rocketseat
     <br />
     <br />
-    <a href="https://ignite-feed.ianlibanio.com/">View Live</a>
+    <a href="https://ignite-feed.ianlibanio.dev/">View Live</a>
     ·
     <a href="https://github.com/ianlibanio/ignite-feed/issues">Report Bug</a>
     ·
